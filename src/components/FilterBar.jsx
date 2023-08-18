@@ -95,5 +95,5 @@ const Container = styled("div")(() => ({
     flex: "1",
   },
 }));
-//status and gender filter
+//status and gender filteredgit init
 export default FilterBar;
