@@ -95,5 +95,5 @@ const Container = styled("div")(() => ({
     flex: "1",
   },
 }));
-
+//status and gender filter
 export default FilterBar;
